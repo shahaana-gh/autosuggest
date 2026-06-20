@@ -1,0 +1,35 @@
+.gear{
+    position: fixed;
+    top : 10px;
+    left : 10px;
+}
+.pill{
+    position: fixed;
+    top : 10px;
+    right: 10px;
+}
+.main-content{
+    text-align: center;
+}
+.highlight{
+    color: blue;
+}
+.lens{
+    position: relative;
+    left: 35px;
+    /*
+    top: 20px; or bottom:20px; or right : 20px; or left : 20px;
+    */ 
+}.lens{
+    position: relative;
+    left: 35px;
+    top: 2px;
+}
+
+#search-bar{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
