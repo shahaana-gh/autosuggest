@@ -1,6 +1,6 @@
 # autosuggest
 
-Verifying my git set-up : )
+Verifying my git set-up : 
 
 changes flow for pushing
 1. add - (plus button)
